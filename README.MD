@@ -9,3 +9,5 @@
 -------------
 
 5. Separate design brainstorming for game
+
+6. Commit to base design UI
