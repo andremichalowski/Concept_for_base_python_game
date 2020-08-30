@@ -13,3 +13,7 @@
 6. Commit to base design UI
 
 7. Commit to base logic design
+
+--------------
+
+8. Create base website repo
