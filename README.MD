@@ -17,3 +17,5 @@
 --------------
 
 8. Create base website repo
+
+9. Add CRA + Basic Styling
