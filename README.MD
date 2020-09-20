@@ -19,3 +19,5 @@
 8. Create base website repo
 
 9. Add CRA + Basic Styling
+
+10. Add basic examples of future projects UI
