@@ -21,3 +21,7 @@
 9. Add CRA + Basic Styling
 
 10. Add basic examples of future projects UI
+
+11. Add routing/link to 1st project
+
+12. Create component for background and buttons
