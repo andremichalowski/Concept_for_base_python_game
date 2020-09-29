@@ -25,3 +25,5 @@
 11. Add routing/link to 1st project
 
 12. Create component for background and buttons
+
+13. Revisit logic for implementation
