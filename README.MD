@@ -27,3 +27,5 @@
 12. Create component for background and buttons
 
 13. Revisit logic for implementation
+
+14. Code html for titles + onclick + listeners for base options
