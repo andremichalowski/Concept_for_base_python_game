@@ -31,3 +31,5 @@
 14. Code html for titles + onclick + listeners for base options
 
 15. Fill out listeners with logic to change text
+
+16. Add reset button and logic
