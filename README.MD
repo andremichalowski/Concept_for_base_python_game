@@ -39,3 +39,7 @@
 18. Add submit button UI (as component)
 
 19. Add strike logic + array (in component)
+
+20. Add components to new pages. Add new questions to new pages and repeat.
+
+21. Deploy
