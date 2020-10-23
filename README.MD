@@ -33,3 +33,5 @@
 15. Fill out listeners with logic to change text
 
 16. Add reset button and logic
+
+17. Add strike UI
