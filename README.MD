@@ -35,3 +35,5 @@
 16. Add reset button and logic
 
 17. Add strike UI
+
+18. Add submit button UI
