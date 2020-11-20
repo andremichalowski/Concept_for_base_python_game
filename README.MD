@@ -34,6 +34,8 @@
 
 16. Add reset button and logic
 
-17. Add strike UI
+17. Add strike UI (as component)
 
-18. Add submit button UI
+18. Add submit button UI (as component)
+
+19. Add strike logic + array (in component)
